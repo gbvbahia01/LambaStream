@@ -1,0 +1,8 @@
+.DS_Store
+/build
+/target
+**/target
+/src/files/COTAHIST_A2016.TXT
+/logs
+/files_dbfile
+/scripts
